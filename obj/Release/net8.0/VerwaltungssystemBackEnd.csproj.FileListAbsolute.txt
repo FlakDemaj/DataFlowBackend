@@ -1,0 +1,5 @@
+C:\Users\flakr\VerwaltungssystemBackEnd\obj\Release\net8.0\VerwaltungssystemBackEnd.csproj.AssemblyReference.cache
+C:\Users\flakr\VerwaltungssystemBackEnd\obj\Release\net8.0\VerwaltungssystemBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flakr\VerwaltungssystemBackEnd\obj\Release\net8.0\VerwaltungssystemBackEnd.AssemblyInfoInputs.cache
+C:\Users\flakr\VerwaltungssystemBackEnd\obj\Release\net8.0\VerwaltungssystemBackEnd.AssemblyInfo.cs
+C:\Users\flakr\VerwaltungssystemBackEnd\obj\Release\net8.0\VerwaltungssystemBackEnd.csproj.CoreCompileInputs.cache
